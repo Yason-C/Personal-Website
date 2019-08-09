@@ -17,7 +17,7 @@
                     MongoDB to Cayley, and then visualize it as a graph.</p>
                 <div class="headline mt-3">Vue.js</div>
                 <p class="subheading mt-3">For the client-side of the DEOI project, we chose to use the Vue.js framework to design and code the HTML for our website. While assisting in this process, I learned how to create 
-                    and format a website, such as this one! The code for this website can be found here.</p>
+                    and format a website, such as this one! The code for this website can be found <a href="https://github.com/Yason-C/Personal-Website" target="_blank">here</a>.</p>
             </v-flex>
             <v-flex>
                 <div class="display-1 black--text">Purdue Projects</div>
