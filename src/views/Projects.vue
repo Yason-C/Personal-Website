@@ -14,7 +14,7 @@
                      and how to interact with that data through external Python and Go scripts. <a href="https://github.com/Yason-C/My-NLP-Script" target="_blank">Here is my Python script that transfers my MongoDB data to a JSON-LD file.</a></p>
                 <div class="headline mt-3">Cayley</div>
                 <p class="subheading mt-3">In order to visualize this data for analysis purposes, we used Google's Cayley graph database. Through a Python script, I was able to query, format, and send data from 
-                    MongoDB to Cayley, and then visualize it as a graph. The results were pretty cool!:</p>
+                    MongoDB to Cayley, and then visualize it as a graph.</p>
                 <div class="headline mt-3">Vue.js</div>
                 <p class="subheading mt-3">For the client-side of the DEOI project, we chose to use the Vue.js framework to design and code the HTML for our website. While assisting in this process, I learned how to create 
                     and format a website, such as this one! The code for this website can be found here.</p>
